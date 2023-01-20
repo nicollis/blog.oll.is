@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on blog.oll.is</title>
+    <link>https://blog.oll.is/posts/</link>
+    <description>Recent content in Posts on blog.oll.is</description>
+    <image>
+      <url>https://blog.oll.is/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.oll.is/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2017 15:02:01 +0000</lastBuildDate><atom:link href="https://blog.oll.is/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offering downloads without giving away the cow</title>
+      <link>https://blog.oll.is/posts/2017-02-22_offering-downloads-without-giving-away-the-cow/</link>
+      <pubDate>Wed, 22 Feb 2017 15:02:01 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2017-02-22_offering-downloads-without-giving-away-the-cow/</guid>
+      <description>So I had an interesting user story the other day. I was asked to implement a new system that would allow users to pay for and download some of our templates.  This is all pretty well and easy thanks…</description>
+    </item>
+    
+    <item>
+      <title>Fears of a New Job</title>
+      <link>https://blog.oll.is/posts/2016-08-04_fears-of-a-new-job/</link>
+      <pubDate>Thu, 04 Aug 2016 19:38:14 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-08-04_fears-of-a-new-job/</guid>
+      <description>I have found while I really enjoy programming full time. It has also brought on some anxiety I was not expecting. I had been up until July a full time IT administrator for a little over 5 years. In this job while still learning a lot the majority of what I did on a day to day basis was memorized and required little to no effort.
+It has been string moving into a job that while I still knew enough that after a trial run with the company they still wanted to hire me.</description>
+    </item>
+    
+    <item>
+      <title>Making your first push in git</title>
+      <link>https://blog.oll.is/posts/2016-06-06_making-your-first-push-in-git/</link>
+      <pubDate>Mon, 06 Jun 2016 06:00:16 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-06-06_making-your-first-push-in-git/</guid>
+      <description>Making your first push to a project can be a daunting task if you are new to git. Today we are going to review how I do my checks before pushing and what you can do to avoid making mistakes prevalent to newbies.
+For me my first step is always running a git status. I do this so I can get a quick list of files that have been added/modified/deleted. When I code I might put a binding.</description>
+    </item>
+    
+    <item>
+      <title>Blocks, Procs, Lambdas, oh my!</title>
+      <link>https://blog.oll.is/posts/2016-05-30_blocks-procs-lambdas-oh-my/</link>
+      <pubDate>Mon, 30 May 2016 18:55:43 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-05-30_blocks-procs-lambdas-oh-my/</guid>
+      <description>Today I wanted to go over Blocks, Procs, and Lambdas in Ruby via a easy and short over view. There are a lot of post on the subjects already so I am hoping to just give a high level overview to get your interest peaked on some of the most interesting parts of the Ruby language.
+Above is my last video going over Blocks and how to use them so I will keep my blocks in here short.</description>
+    </item>
+    
+    <item>
+      <title>Skeleton Ruby Project: Mac Edition</title>
+      <link>https://blog.oll.is/posts/2016-05-23_skeleton-ruby-project-mac-edition/</link>
+      <pubDate>Mon, 23 May 2016 16:00:05 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-05-23_skeleton-ruby-project-mac-edition/</guid>
+      <description>A nice thing to have in your Ruby journey will be a skeleton project so you can quickly get up and running when you need to create a new project. We have done this project in an earlier post for computers running Windows. However, with the upcoming video series on algorithmic challenges in Ruby I wanted to translate the old post for Mac systems. We will be doing all the commands in the terminal, and the Atom editor for writing to the files.</description>
+    </item>
+    
+    <item>
+      <title>When to start looking for a job</title>
+      <link>https://blog.oll.is/posts/2016-05-16_when-to-start-looking-for-a-job/</link>
+      <pubDate>Mon, 16 May 2016 16:00:30 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-05-16_when-to-start-looking-for-a-job/</guid>
+      <description>One question I hear a lot and have even asked myself a while back ago is “When do I know enough to start looking for a job”. While this question is very complicated and depends on a lot of factors I wanted to go into my background a bit and what got me to the point of saying “I know enough”.
+Like I’ve mentioned in the past I have about 5 years of hobbyist programming under my belt but until recently I have not really had much to show for it.</description>
+    </item>
+    
+    <item>
+      <title>Automated Code Review in Ruby</title>
+      <link>https://blog.oll.is/posts/2016-05-09_automated-code-review-in-ruby/</link>
+      <pubDate>Mon, 09 May 2016 16:00:02 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-05-09_automated-code-review-in-ruby/</guid>
+      <description>Today I wanted to review automating code review inside of ruby.
+Their meeting great open source projects to help make sure you are sticking to an idiomatic way of coding in ruby. The main one I will focus on today is Robocop and Robocop-git.
+[Rubocop] (https://github.com/bbatsov/rubocop)is an open source gym for ruby that will review your project and let you know of any “best practices” you are not adhering too.</description>
+    </item>
+    
+    <item>
+      <title>Live on YouTube</title>
+      <link>https://blog.oll.is/posts/2016-05-02_live-on-youtube/</link>
+      <pubDate>Mon, 02 May 2016 22:29:27 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-05-02_live-on-youtube/</guid>
+      <description>Program Practical is now on youtube. This month I am moving to a bi-media format with blog post going to start coming out weekly on Program Practical, as well weekly video post on YouTube.
+These post will cover a range of programming topics, from progress updates, coding tutorials, and coding news. I will be currently be focused more on Ruby and Rails, but might jump into C++, Python, and other languages depending on my current project or topic request.</description>
+    </item>
+    
+    <item>
+      <title>April showers bring in some changes</title>
+      <link>https://blog.oll.is/posts/2016-04-09_april-showers-bring-in-some-changes/</link>
+      <pubDate>Sat, 09 Apr 2016 18:44:42 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-04-09_april-showers-bring-in-some-changes/</guid>
+      <description>We are officially into april now I figured I would do my monthly wrap up and planning blog. March was an okayish month. If you follow along you would noticed I only ended up posting 3 times last month. While I am working on studying a lot I have started looking at developer jobs. With this I’m not posting too much about the places or the journey but it has shaped a bit about what I will be doing this month.</description>
+    </item>
+    
+    <item>
+      <title>Live Streaming</title>
+      <link>https://blog.oll.is/posts/2016-03-31_live-streaming/</link>
+      <pubDate>Thu, 31 Mar 2016 15:30:19 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-03-31_live-streaming/</guid>
+      <description>It’s been a bit between post. With the holidays things tend to get busy with my family. I have started live streaming some coding. I’m hoping to make it a more regular thing, although I’m trying to work it into a fixed point on in my week.
+After editing some of the dead points of the live stream I plan to release the video’s on youtube. The current live stream is following me along as I’m adding a new feature to the open sourced project rubocop-git.</description>
+    </item>
+    
+    <item>
+      <title>Tossing in The Towel for Windows</title>
+      <link>https://blog.oll.is/posts/2016-03-17_tossing-in-the-towel-for-windows/</link>
+      <pubDate>Thu, 17 Mar 2016 14:54:10 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-03-17_tossing-in-the-towel-for-windows/</guid>
+      <description>Well sadly more and more I find myself programming on my Mac over my Windows machine. While I still believe windows is a great platform for programming even in Ruby it’s all come down to one thing. Time. The more projects I work on the more gems I get exposed to and the more errors those gems produce due to not being testing or just no support for windows. While this may be addressable by installing a linux wrapper like cygwin onto the windows system I have not personally gave it a try.</description>
+    </item>
+    
+    <item>
+      <title>Kicking off a new month</title>
+      <link>https://blog.oll.is/posts/2016-03-08_kicking-off-a-new-month/</link>
+      <pubDate>Tue, 08 Mar 2016 15:30:13 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-03-08_kicking-off-a-new-month/</guid>
+      <description>March is upon us and I just finished up One Month Rails. While I did enjoy the class I have to say even coming from someone who is new to Rails it went insanely slow at the beginning allowing me to finish the whole course in about a week. However, I will say there explanation and run through of a MVC framework was amazing. I have worked in them before but feel I have a better understanding now than I ever had in the past.</description>
+    </item>
+    
+    <item>
+      <title>Experience and Advice from a Newbies First Hackathon</title>
+      <link>https://blog.oll.is/posts/2016-03-02_experience-and-advice-from-a-newbies-first-hackathon/</link>
+      <pubDate>Wed, 02 Mar 2016 18:31:00 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-03-02_experience-and-advice-from-a-newbies-first-hackathon/</guid>
+      <description>This last weekend I got to participate in #INCapitolHack. A hackathon to help create solutions for the city of Indianapolis Indiana. This was my first hackathon and I wanted to share some of my experience with other working-to-be developers.
+The event started Friday night with an overview of the event to come and team creation time. One of the biggest thing I will say is get on a team before the event.</description>
+    </item>
+    
+    <item>
+      <title>Inside my Tech Bag for INCapitolHack</title>
+      <link>https://blog.oll.is/posts/2016-02-29_inside-my-tech-bag-for-incapitolhack/</link>
+      <pubDate>Mon, 29 Feb 2016 15:30:13 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-29_inside-my-tech-bag-for-incapitolhack/</guid>
+      <description>This weekend I have the honor of participating and the #INCapitolHack hosted by the Indianapolis Chamber of Commerce. While I’ll be typing up another post about my experience and what we did. I wanted to take the time to type up what was in my bag for the event, to help new comers feel prepared for going to their first hackathon.
+Being my first hackathon I wasn’t to sure what I might need or should bring so I made sure to have a little big of everything.</description>
+    </item>
+    
+    <item>
+      <title>Developing Ruby on Windows</title>
+      <link>https://blog.oll.is/posts/2016-02-24_developing-ruby-on-windows/</link>
+      <pubDate>Wed, 24 Feb 2016 16:13:43 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-24_developing-ruby-on-windows/</guid>
+      <description>So far I have stuck to my guns and continued to develop with Ruby on Rails on a Windows machine. I am overall quite happy with my experience although I have ran into some fun roadblocks.
+One of the biggest issues I have found with developing on Windows has been Ruby Gems not fully supporting it. The first Gem I encountered with issues was “ReRun” a nice little gem that would auto reload my Sinatra app when it noticed files had been changed.</description>
+    </item>
+    
+    <item>
+      <title>Onto Rails and a Review of What’s Been Done</title>
+      <link>https://blog.oll.is/posts/2016-02-22_onto-rails-and-a-review-of-whats-been-done/</link>
+      <pubDate>Mon, 22 Feb 2016 15:30:01 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-22_onto-rails-and-a-review-of-whats-been-done/</guid>
+      <description>It has been a fun month so far. I just wrapped up “Learn Ruby the Hard Way” finishing the two books from “No Degree, No Problem” you read before getting into rails. Next step I’m starting today is “One Month Rails”.
+I reviewed the site last night and almost signed up but as its a monthly charge I decided to wait until the start of my study time today. This actually worked out really well because as I was 1/2 though the checkout process then quick on the credit card screen they sent me a coupon in my email for the first month for only $1 instead of the $45 I was about to pay last night.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Ruby Skeleton</title>
+      <link>https://blog.oll.is/posts/2016-02-16_creating-a-ruby-skeleton/</link>
+      <pubDate>Tue, 16 Feb 2016 16:20:09 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-16_creating-a-ruby-skeleton/</guid>
+      <description>A nice thing to have in your Ruby journey will be a skeleton project so you can quickly get up and running when you need to create a new project. For this we will be setting up in a windows environment using Powershell and Visual Studio’s Code callabled by “code”.
+First we will create our skeleton project folder and its sub folders. mkdir skeleton``cd skeleton``mkdir bin, data, doc, ext, lib, tests, lib/PROJECT</description>
+    </item>
+    
+    <item>
+      <title>Mid Month Review</title>
+      <link>https://blog.oll.is/posts/2016-02-13_mid-month-review/</link>
+      <pubDate>Sat, 13 Feb 2016 10:30:37 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-13_mid-month-review/</guid>
+      <description>It’s been a pretty crazy February for me. However, I wanted to take some time just to catch up on progress and whats going on.
+I’m just passed the 1/2 mark of “Learn Ruby The Hard Way”. Hopefully with some free time and extra boost of determination I got this last week I should be able to close the gap and finish this book up in the next week or two.</description>
+    </item>
+    
+    <item>
+      <title>String Theory: Strings in Ruby</title>
+      <link>https://blog.oll.is/posts/2016-02-07_string-theory-strings-in-ruby/</link>
+      <pubDate>Sun, 07 Feb 2016 10:30:36 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-07_string-theory-strings-in-ruby/</guid>
+      <description>Working with strings in Ruby has been interesting. As the
+re is far more to pay attention to and what you can do then when dealing with just JavaScript.
+One of my favorite things is the ability to put a variable right in the middle of a string without having to first break out of it and then add it in.
+JavaScript var my_var = “day”;
+console.log(“Isn’t to”+my_var+” just lovely?”);</description>
+    </item>
+    
+    <item>
+      <title>Yes, so I am what I would call a hobbiest.</title>
+      <link>https://blog.oll.is/posts/2016-02-06_yes-so-i-am-what-i-would-call-a-hobbiest./</link>
+      <pubDate>Sat, 06 Feb 2016 22:05:46 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-06_yes-so-i-am-what-i-would-call-a-hobbiest./</guid>
+      <description>Yes, so I am what I would call a hobbiest. I have worked the past 5 years “Learning to program” without any real discipline. Due to this is skipped all of the “challenges” except for the bootstrap ones. However, I still feel their quoted time is horribly off. I have seen a lot of other post from people said they went from 0 to done in under 1000 hours. way under what they quote.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Lesson Learned Thanks to Ruby</title>
+      <link>https://blog.oll.is/posts/2016-02-05_javascript-lesson-learned-thanks-to-ruby/</link>
+      <pubDate>Fri, 05 Feb 2016 10:30:19 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-05_javascript-lesson-learned-thanks-to-ruby/</guid>
+      <description>I have started working on a very small side project while I am learning Ruby. It’s just a simple time tracker that helps me with my current IT admin job. I have been trying some different time trackers like Toggle. While I find them awesome, in fact I’m using Toggle right now to track my time writing, they are just not suited for fast paced, high risk world of IT. Okay, maybe just fast paced sometimes, with no risk.</description>
+    </item>
+    
+    <item>
+      <title>Great post, I have always been a fan of making apps for niche markets because of this.</title>
+      <link>https://blog.oll.is/posts/2016-02-03_great-post-i-have-always-been-a-fan-of-making-apps-for-niche-markets-because-of-this./</link>
+      <pubDate>Wed, 03 Feb 2016 16:09:43 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-03_great-post-i-have-always-been-a-fan-of-making-apps-for-niche-markets-because-of-this./</guid>
+      <description>Great post, I have always been a fan of making apps for niche markets because of this. Sure my audience isn’t as broad but its a safer market.</description>
+    </item>
+    
+    <item>
+      <title>Step 2: Learning Ruby</title>
+      <link>https://blog.oll.is/posts/2016-02-03_step-2-learning-ruby/</link>
+      <pubDate>Wed, 03 Feb 2016 10:30:58 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-03_step-2-learning-ruby/</guid>
+      <description>With my Front End Developer Certificate behind me I start the next leg of my journey. I am mainly following the guidelines laid out in in Joshua kemp’s book “No Degree No Problem”. As of Monday I officially started working though the book Learning to Program by Chris Pine.
+Right off the bat I’m enjoying Ruby but it is very odd programming in a language without curly brackets. As the majority of my time programming as been on in C based languages I find this one a little odd.</description>
+    </item>
+    
+    <item>
+      <title>Certified Front End Developer</title>
+      <link>https://blog.oll.is/posts/2016-02-01_certified-front-end-developer/</link>
+      <pubDate>Mon, 01 Feb 2016 10:30:37 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-02-01_certified-front-end-developer/</guid>
+      <description>Last night I was able to finish up the Simon project wrapping up the last of the requirements for Free Code Camp’s Front End Development Certificate. I am pretty excited to have completed this, while it’s just a certificate from a free online site, it means the completion of the first step in my journey.
+It only took me about 3 weeks in all to get through all the required algorithms and projects.</description>
+    </item>
+    
+    <item>
+      <title>The Road Lined with Rubies</title>
+      <link>https://blog.oll.is/posts/2016-01-30_road-lined-with-rubies/</link>
+      <pubDate>Sat, 30 Jan 2016 10:30:49 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-30_road-lined-with-rubies/</guid>
+      <description>I have been working both extensively on my coding, and trying to come up with the “next steps” after I get done with Free Code Camp’s Front End Developer certification. Something I should hopefully have done in the next several days. Looking forward I come back to a question I asked in an earlier post about picking Ruby or JavaScript for continued learning for back-end/full stack development.
+There has been a lot of great discussions with developers and local groups about the options.</description>
+    </item>
+    
+    <item>
+      <title>Open source and example projects was major for my first Android App.</title>
+      <link>https://blog.oll.is/posts/2016-01-29_open-source-and-example-projects-was-major-for-my-first-android-app./</link>
+      <pubDate>Fri, 29 Jan 2016 03:00:56 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-29_open-source-and-example-projects-was-major-for-my-first-android-app./</guid>
+      <description>Open source and example projects was major for my first Android App. I actually got a book called “Android for Programmers: An App-Driven Approach”. This was amazing because I got to see how these apps are made and put together instead or just reading the documentation and not knowing how things go together. Great article.</description>
+    </item>
+    
+    <item>
+      <title>Fantastic list, I was just recommended http://www.exercism.io/</title>
+      <link>https://blog.oll.is/posts/2016-01-29_fantastic-list-i-was-just-recommended-httpwww.exercism.io/</link>
+      <pubDate>Fri, 29 Jan 2016 02:46:14 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-29_fantastic-list-i-was-just-recommended-httpwww.exercism.io/</guid>
+      <description>Fantastic list, I was just recommended http://www.exercism.io/ from a redditor as a place to find an (almost) never ending list of projects to help further learning to code.</description>
+    </item>
+    
+    <item>
+      <title>Yeah I have yet to get into Node.JS.</title>
+      <link>https://blog.oll.is/posts/2016-01-29_yeah-i-have-yet-to-get-into-node.js./</link>
+      <pubDate>Fri, 29 Jan 2016 02:09:01 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-29_yeah-i-have-yet-to-get-into-node.js./</guid>
+      <description>Yeah I have yet to get into Node.JS. However, the Ruby community in Indy has been amazingly been having some amazing communications with me via Reddit. Plan is to head to their meet up and to see what Ruby is all about. Apparently there is a massive lack of Ruby developers in Indiana I’m not aware of.</description>
+    </item>
+    
+    <item>
+      <title>The Let Down Near the Finish Line</title>
+      <link>https://blog.oll.is/posts/2016-01-28_let-down-near-the-finish-line/</link>
+      <pubDate>Thu, 28 Jan 2016 10:30:50 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-28_let-down-near-the-finish-line/</guid>
+      <description>I have been pretty happy with Free Code Camp. They make a pretty easy approach, and if you are not new you don’t have to sit through all the “challenges” just go straight to the Algorithms and Projects to get Certified. To date I have fully completed:
+Responsive Design with Bootstrap Basic Algorithms Basic Projects Intermediate Algorithms I am currently working on the “Intermediate Projects” about 2/3 though with only 2 projects left.</description>
+    </item>
+    
+    <item>
+      <title>Ruby over JavaScript?</title>
+      <link>https://blog.oll.is/posts/2016-01-26_ruby-over-javascript/</link>
+      <pubDate>Tue, 26 Jan 2016 13:38:31 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-26_ruby-over-javascript/</guid>
+      <description>I have been struggling a lot lately in trying to decide my next steps as I finish Free Code Camp’s Front End Developer Certification. I figured I would blow through it quickly to get my legs back into web development after spending a good amount of time in C++ trying to build a 2d game engine.
+While it has been fun and I have got a friend started on programming using FCC’s easy to learn curriculum finding a job still has me perplexed.</description>
+    </item>
+    
+    <item>
+      <title>Thanks for the advice, I’m lucky enough to always find time to code daily, I have found locking…</title>
+      <link>https://blog.oll.is/posts/2016-01-25_thanks-for-the-advice-im-lucky-enough-to-always-find-time-to-code-daily-i-have-found-locking/</link>
+      <pubDate>Mon, 25 Jan 2016 17:07:25 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-25_thanks-for-the-advice-im-lucky-enough-to-always-find-time-to-code-daily-i-have-found-locking/</guid>
+      <description>Thanks for the advice, I’m lucky enough to always find time to code daily, I have found locking myself down to 21 hours of coding a week has really accelerated my understanding and speed. I will look into DevOps automation. I had not be given that advice before, but it makes a lot of sense.</description>
+    </item>
+    
+    <item>
+      <title>One of the things I try to push on my friends learning code is don’t get stuck on a lesson for 5…</title>
+      <link>https://blog.oll.is/posts/2016-01-25_one-of-the-things-i-try-to-push-on-my-friends-learning-code-is-dont-get-stuck-on-a-lesson-for-5/</link>
+      <pubDate>Mon, 25 Jan 2016 16:57:48 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-25_one-of-the-things-i-try-to-push-on-my-friends-learning-code-is-dont-get-stuck-on-a-lesson-for-5/</guid>
+      <description>One of the things I try to push on my friends learning code is don’t get stuck on a lesson for 5 hours that should have taken 30 minutes just because you don’t fully understand it. Keep working it will come up enough that sooner or later the light bulb will turn on.</description>
+    </item>
+    
+    <item>
+      <title>One of the big reasons I love Free Code Camp is the simplicity behind it, and how advanced it gets…</title>
+      <link>https://blog.oll.is/posts/2016-01-25_one-of-the-big-reasons-i-love-free-code-camp-is-the-simplicity-behind-it-and-how-advanced-it-gets/</link>
+      <pubDate>Mon, 25 Jan 2016 16:45:45 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-25_one-of-the-big-reasons-i-love-free-code-camp-is-the-simplicity-behind-it-and-how-advanced-it-gets/</guid>
+      <description>One of the big reasons I love Free Code Camp is the simplicity behind it, and how advanced it gets when you get into projects. While I was sad to see the terminology go, I was happy to see how quickly changes were made when the community saw the new site in put in input on how to improve. I hear Ruby has the best community out there of any language.</description>
+    </item>
+    
+    <item>
+      <title>Staring Line</title>
+      <link>https://blog.oll.is/posts/2016-01-24_staring-line/</link>
+      <pubDate>Sun, 24 Jan 2016 07:27:47 +0000</pubDate>
+      
+      <guid>https://blog.oll.is/posts/2016-01-24_staring-line/</guid>
+      <description>We all start somewhere I suppose. I’ve been “learning” to code for over 5 years now. Yet, here I am a Senior IT Administrator, not a programmer with very few projects to show of my years or “learning”. Its easy not to stay focus on one project or another, or wanting to jump to the newest language. I made a promise to myself, that this would be the year I hunker down, study, and apply for jobs as a Junior Developer.</description>
+    </item>
+    
+  </channel>
+</rss>
