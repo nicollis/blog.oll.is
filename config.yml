@@ -16,7 +16,7 @@ outputs:
     - JSON
 
 # googleAnalytics: AW-970156256
-disqusShortname: 'blog-oll-is'
+disqusShortname: blog-oll-is
 
 minify:
   disableXML: true
