@@ -1,7 +1,7 @@
 baseURL: 'https://blog.oll.is'
 languageCode: 'en-us'
 title: 'blog.oll.is'
-theme: 'papermod'
+theme: 'papermod_edited'
 paginate: 6
 
 enableRobotsTXT: true
@@ -16,8 +16,7 @@ outputs:
     - JSON
 
 # googleAnalytics: AW-970156256
-
-disqusShortname: blog-oll-is
+disqusShortname: 'blog-oll-is'
 
 minify:
   disableXML: true
