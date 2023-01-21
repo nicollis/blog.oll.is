@@ -68,7 +68,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog. I am Nicholas Ollis; I architect solutions to hard problems in web, mobile, & ML. This blog host my writings from over the years (minues the post I did for Big Nerd Ranch). While primarly focused on the tech space, it might span quite a few areas. Thanks for coming and I hope you enjoy your stay!
+    Content: Welcome to my blog. I am Nicholas Ollis; I architect solutions to hard problems in web, mobile, & ML. This blog host my writings from over the years (minus the post I did for Big Nerd Ranch). While primarly focused on the tech space, it might span quite a few areas. Thanks for coming and I hope you enjoy your stay!
 
   socialIcons:
     - name: linkedin
