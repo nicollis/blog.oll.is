@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.oll.is/</loc>
-    <lastmod>2023-01-19T07:12:09-06:00</lastmod>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
-    <loc>https://blog.oll.is/posts/2017-02-22_offering-downloads-without-giving-away-the-cow/</loc>
-    <lastmod>2023-01-19T07:12:09-06:00</lastmod>
+    <loc>https://blog.oll.is/categories/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/goals/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/posts/2023-01-23_organizing-goals-like-software/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/posts/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/project-planning/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/soft-skills/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/categories/soft-skills/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/</loc>
+    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/posts/2017-02-22_offering-downloads-without-giving-away-the-cow/</loc>
     <lastmod>2023-01-19T07:12:09-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/posts/2016-08-04_fears-of-a-new-job/</loc>
@@ -112,10 +133,6 @@
   </url><url>
     <loc>https://blog.oll.is/archives/</loc>
   </url><url>
-    <loc>https://blog.oll.is/categories/</loc>
-  </url><url>
     <loc>https://blog.oll.is/search/</loc>
-  </url><url>
-    <loc>https://blog.oll.is/tags/</loc>
   </url>
 </urlset>
