@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.oll.is/tags/ai/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/categories/ai/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/posts/2023-02-15_banana_bread_by_chatgpt/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
     <loc>https://blog.oll.is/</loc>
-    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/categories/</loc>
-    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/chatgpt/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/cooking/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/posts/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
+  </url><url>
+    <loc>https://blog.oll.is/tags/</loc>
+    <lastmod>2023-02-15T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/tags/goals/</loc>
     <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/posts/2023-01-23_organizing-goals-like-software/</loc>
-    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
-  </url><url>
-    <loc>https://blog.oll.is/posts/</loc>
     <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/tags/project-planning/</loc>
@@ -24,9 +42,6 @@
     <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/categories/soft-skills/</loc>
-    <lastmod>2023-01-23T12:49:14-06:00</lastmod>
-  </url><url>
-    <loc>https://blog.oll.is/tags/</loc>
     <lastmod>2023-01-23T12:49:14-06:00</lastmod>
   </url><url>
     <loc>https://blog.oll.is/posts/2017-02-22_offering-downloads-without-giving-away-the-cow/</loc>

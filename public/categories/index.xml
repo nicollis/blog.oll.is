@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Jan 2023 12:49:14 -0600</lastBuildDate><atom:link href="https://blog.oll.is/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 12:49:14 -0600</lastBuildDate><atom:link href="https://blog.oll.is/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>https://blog.oll.is/categories/ai/</link>
+      <pubDate>Wed, 15 Feb 2023 12:49:14 -0600</pubDate>
+      
+      <guid>https://blog.oll.is/categories/ai/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>soft skills</title>
       <link>https://blog.oll.is/categories/soft-skills/</link>
