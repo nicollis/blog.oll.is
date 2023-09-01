@@ -1,23 +1,23 @@
 ---
-title: "Comparison of Different International Data Regulations”
-description: “a method to planning out multiple goals for a year”
-summary: Yearly goal planning is hard, but if you plan on major growths in your life, it can be necessary. Here is my latest method for multi-goal planning to keep things focused and on track.
-date: 2023-09-01T12:49:14-06:00
+title: "Comparison of Different International Data Regulations"
+description: " taking a look at different data regulations across the world. "
+summary: A high level summary of Data Regulations including CCPA, PIPEDA, PR Act 111, GDPR, and LGPD
+date: 2023-09-01T10:49:14-06:00
 showtoc: true
-cover.image: “”
+cover.image: "./imges/map.png"
 cover.relative: true
 cover.hidden: false
-categories: [soft skills]
-tags: [project planning, goals, soft skills]
+categories: [data]
+tags: [internationalization, i18n, data regulations, data]
 ---
-
+![][image-1]
 ## Introduction
 
 In today's digital age, data architects face the complex challenge of navigating various international data privacy laws. This is crucial not only for compliance, but also for designing effective and secure data architectures. This blog post aims to elucidate key data regulations in the United States (specifically California's CCPA), Canada, Puerto Rico, the EMEA region, the APAC region, and Brazil that every data architect should be cognizant of. To provide a relatable point of comparison for U.S.-based architects, we will contrast each of these international laws against the California Consumer Privacy Act (CCPA). While going deeply into each law will out of scope for a single post, I hope to provide a basic understanding of how data protection laws differ once outside of the US for companies looking to expand their reach.
 
 ## Regulations
 
-#### United States: California Consumer Privacy Act (CCPA)
+### United States: California Consumer Privacy Act (CCPA)
 
 **Intro**: The CCPA is a state statute intended to enhance privacy rights and consumer protection for residents of California, United States. Although it is a state law, its reach is effectively nationwide, as many companies in the U.S. opt to comply with it to maintain a uniform data protection policy. Understanding CCPA is crucial as it serves as a reference point for comparing other international data privacy laws.
 
@@ -30,7 +30,7 @@ In today's digital age, data architects face the complex challenge of navigating
 
 ---
 
-#### Canada: PIPEDA (Personal Information Protection and Electronic Documents Act)
+### Canada: PIPEDA (Personal Information Protection and Electronic Documents Act)
 
 **Intro**: PIPEDA is Canada's federal privacy law that governs the collection, use, and disclosure of personal information by private-sector organizations. While similar in many respects to the U.S.'s CCPA, it has its own unique set of requirements that data architects must understand.
 
@@ -49,7 +49,7 @@ In today's digital age, data architects face the complex challenge of navigating
 
 ---
 
-#### Puerto Rico: PR Act 111
+### Puerto Rico: PR Act 111
 
 **Intro**: While Puerto Rico is a U.S. territory and thus subject to federal laws like the CCPA, it has additional local regulations under Act 111. This law puts further emphasis on consumer protection, particularly in the context of data breaches.
 
@@ -68,7 +68,7 @@ In today's digital age, data architects face the complex challenge of navigating
 
 ---
 
-#### EMEA: GDPR (General Data Protection Regulation)
+### EMEA: GDPR (General Data Protection Regulation)
 
 **Intro**: The GDPR is a comprehensive data protection law that applies across the European Union and impacts any organization that deals with EU citizens' data. It sets a high standard for data protection and influences data laws worldwide.
 
@@ -90,9 +90,9 @@ In today's digital age, data architects face the complex challenge of navigating
 
 ---
 
-#### APAC: Varies by Country (e.g., PDPA in Singapore)
+### APAC: Varies by Country (e.g., PDPA in Singapore)
 
-**Intro**: The Asia-Pacific (APAC) region has a diverse landscape of data protection laws, making it a complex area for data architects. Laws vary by country, each with its unique set of regulations and compliance requirements.
+**Intro**: The Asia-Pacific (APAC) region has a diverse landscape of data protection laws, making it a complex area for data architects. Laws vary by country, each with its unique set of regulations and compliance requirements. Due to the scope, a separate post just comparing the APAC will be needed.
 
 **Implementation**: Due to the varied nature of APAC regulations, data architects must be well-versed in each country's specific laws if operating across the region. This may involve implementing localized consent mechanisms and data storage solutions.
 
@@ -111,7 +111,7 @@ In today's digital age, data architects face the complex challenge of navigating
 
 ---
 
-#### Brazil: LGPD (Lei Geral de Proteção de Dados)
+### Brazil: LGPD (Lei Geral de Proteção de Dados)
 
 **Intro**: Brazil's LGPD is often considered the country's equivalent to Europe's GDPR. It aims to standardize and strengthen the protection of personal data across Brazil.
 
@@ -163,3 +163,5 @@ Navigating the labyrinth of international data regulations is a formidable but e
 [3]:	https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r%5C_o%5C_p/#
 [4]:	https://www.itechlaw.org/latinamericadataprotection/puerto-rico-20
 [5]:	https://iapp.org/resources/article/brazilian-data-protection-law-lgpd-english-translation/
+
+[image-1]:	./images/map.png
