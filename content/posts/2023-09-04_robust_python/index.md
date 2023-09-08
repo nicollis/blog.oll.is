@@ -85,8 +85,6 @@ In the example above, the `add_numbers` function is concise and has a clear purp
 
 ## Error Handling
 
-Absolutely, adding a section on how Python's behavior can make it error-prone in certain situations would provide a well-rounded perspective in the "Error Handling" part of your blog post. This can serve as a prelude to why robust error handling techniques are especially essential in Python. Here’s how you could incorporate this:
-
 ### Python's Error-Prone Behavior
 
 Before diving into best practices for error handling, it's crucial to understand that Python can be error-prone in ways that might differ from other programming languages. For example, when searching for an item in an array, languages like C\++ or JavaScript return a value like `-1` to indicate the item is not found. However, Python throws a `ValueError` exception in such cases. This behavior necessitates a more proactive approach to error handling.
@@ -438,8 +436,6 @@ For larger projects or libraries, generating API documentation using tools like 
 ### Versioning Your Documentation
 
 As your code evolves, so should your documentation. Versioning your documentation ensures that it stays in sync with your codebase, providing accurate and up-to-date information. This is especially important when your project has multiple versions in use.
-
-That's an excellent point to add. Self-documenting code enhances readability and maintainability, making the codebase more robust over time. This approach often involves using descriptive naming conventions for variables, methods, and classes, as well as utilizing type annotations. Here's how you can extend the "Documentation" section to include this concept:
 
 ### Self-Documenting Code: A First Line of Defense
 
